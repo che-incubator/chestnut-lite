@@ -40,3 +40,4 @@ jobs:
         run: yarn && yarn run compile
       - name: Run
         run: node lib/main.js
+
